@@ -1,7 +1,10 @@
+# UPDATE
+
+Only change the version of amazonlinux in Dockerfile because "latest" amazonlinux build fail
+
 # node-canvas-lambda
 
 A node-canvas (and chart.js) layer for AWS Lambda
-
 
 ## Build
 
