@@ -1,4 +1,4 @@
-FROM amazonlinux:latest
+FROM amazonlinux:2.0.20230307.0
 
 ARG OUT=/root/layers
 ARG NODE_VERSION=16
